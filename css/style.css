@@ -1,0 +1,6 @@
+/* Default apply to all content */
+
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
