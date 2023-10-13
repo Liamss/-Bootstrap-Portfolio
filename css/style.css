@@ -12,18 +12,14 @@
 /* need to add footer with link for contact */
 
 
-/* NONE OF THIS MAKES ANY DIFFERENCE */
-
 
 
 /* Navigation */
 
-
-.customNav {
-    position: fixed;
-    width: 100%;
-    background-color: aqua;
+.navbar {
+    font-size: 20px;
 }
+
 
 .img {
     justify-content: flex-end;
