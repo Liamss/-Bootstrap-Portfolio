@@ -2,25 +2,17 @@
 * {
     box-sizing: border-box;
     font-family: sans-serif;
+    padding-left: 1%;
+    padding-right: 1%;
 }
 
 
-/* want to add spacing between components / padding  */
-/* want to move jumbroton text to right in alignment with image */
-/* want to increase font size in nav and change the colour to the same blue from v1 */
-/* need to add cards for work */
+
+/* add in relevant CSS now the issue has been resolved */
+/* add spacing between components / padding  */
+/* move jumbroton text to right in alignment with image */
+/* add div for 3 in jumbo elements - then a further div for 2x copy rows */
+/* Increase font size in nav and change the colour to the same blue from v1 */
+/* Add cards for work */
 /* need to add footer with link for contact */
 
-
-
-
-/* Navigation */
-
-.navbar {
-    font-size: 20px;
-}
-
-
-.img {
-    justify-content: flex-end;
-}
