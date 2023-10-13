@@ -5,9 +5,21 @@
 }
 
 
+/* want to add spacing between components / padding  */
+/* want to move jumbroton text to right in alignment with image */
+/* want to increase font size in nav and change the colour to the same blue from v1 */
+/* need to add cards for work */
+/* need to add footer with link for contact */
+
+
+/* NONE OF THIS MAKES ANY DIFFERENCE */
+
+
+
 /* Navigation */
 
-.customNav .navbarbrand {
+
+.customNav {
     position: fixed;
     width: 100%;
     background-color: aqua;
@@ -16,6 +28,3 @@
 .img {
     justify-content: flex-end;
 }
-
-
-
