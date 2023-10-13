@@ -1,6 +1,21 @@
 /* Default apply to all content */
-
 * {
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
+
+/* Navigation */
+
+.customNav .navbarbrand {
+    position: fixed;
+    width: 100%;
+    background-color: aqua;
+}
+
+.img {
+    justify-content: flex-end;
+}
+
+
+
