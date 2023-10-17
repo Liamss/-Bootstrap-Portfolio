@@ -2,13 +2,11 @@
 * {
     box-sizing: border-box;
     font-family: sans-serif;
-    padding-left: 1%;
-    padding-right: 1%;
 }
 
 
 
-/* In order that content appears onpage */
+/* In order that content appears on-page */
 
 /* Navigation */
 
@@ -24,9 +22,6 @@
 }
 
 
-/* jumbotron */
-
-
 
 /* Key Content */
 
@@ -38,10 +33,6 @@ padding-bottom: 1%;
 
 
 /* add in relevant CSS now the issue has been resolved */
-/* add spacing between components / padding  */
-/* move jumbroton text to right in alignment with image */
-/* add div for 3 in jumbo elements - then a further div for 2x copy rows */
-/* Increase font size in nav and change the colour to the same blue from v1 */
 /* Add cards for work/split by dev&marketing */
 /* Add contact section */
 /* add footer with CTAs of CV / CONTACT */
