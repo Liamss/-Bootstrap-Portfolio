@@ -8,6 +8,18 @@
 
 
 
+/* In order that content appears onpage */
+
+.navbar {
+    font-size:22px;
+    background-color: white;
+
+}
+
+.navbar-brand {
+    font-size:32px;
+}
+
 /* add in relevant CSS now the issue has been resolved */
 /* add spacing between components / padding  */
 /* move jumbroton text to right in alignment with image */
