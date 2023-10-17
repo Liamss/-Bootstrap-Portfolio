@@ -5,6 +5,7 @@
 Description
 Installation
 Usage
+Learnings / Future Work 
 Credits
 Licence
 Screenshots
@@ -21,12 +22,21 @@ V1 - https://liamss.github.io/professional-portfolio/
 V2 -  https://liamss.github.io/professional-portfolio-v2/
 V2 Github - https://github.com/Liamss/professional-portfolio-v2
 
+
 ## Installation
 
 You can open this in your favourite browser 
 
 ## Usage
+
 Please visit the URL to see the latest deployed version
+
+## Learnings / Future Work 
+
+1. Image cards have the same width but varying height - tried to resize images and overlay CSS 
+2. Removing Card titles and having the whole element clickable, seems to be best achieved in Javascript which we'll start this week. 
+3. Learning to keep CSS to a minimum when it can be achieved in bootstrap, still working out which / where. 
+
 
 ## Credits
 N/A
