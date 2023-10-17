@@ -10,8 +10,11 @@
 
 /* In order that content appears onpage */
 
+/* Navigation */
+
 .navbar {
     font-size:22px;
+    text
     background-color: white;
 
 }
@@ -19,6 +22,20 @@
 .navbar-brand {
     font-size:32px;
 }
+
+
+/* jumbotron */
+
+
+
+/* Key Content */
+
+#about, #skills, #work {
+padding-top: 2%;
+padding-bottom: 1%;
+}
+
+
 
 /* add in relevant CSS now the issue has been resolved */
 /* add spacing between components / padding  */
