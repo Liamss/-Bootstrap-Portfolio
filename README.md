@@ -19,8 +19,9 @@ It also includes links to new projects that I have worked on as part of my Front
 
 
 V1 - https://liamss.github.io/professional-portfolio/ 
-V2 -  https://liamss.github.io/professional-portfolio-v2/
-V2 Github - https://github.com/Liamss/professional-portfolio-v2
+Bootstrap Portfolio - https://liamss.github.io/Bootstrap-Portfolio/
+Bootstrap Git Hub -  https://github.com/Liamss/Bootstrap-Portfolio
+
 
 
 ## Installation

@@ -4,16 +4,26 @@
     font-family: sans-serif;
 }
 
+h2 {
+    font-size: 2REM;
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+
+p {
+    padding-left: 2%;
+}
+
+.col {
+    padding-left: 2%;
+}
 
 /* In order that content appears on-page */
-
 /* Navigation */
 
 .navbar {
     font-size:22px;
-    text
     background-color: white;
-
 }
 
 .navbar-brand {
@@ -21,10 +31,9 @@
 }
 
 
-/* Key Content */
+/* Key Section Content */
 
 #about, #skills, #work {
-padding-top: 2%;
-padding-bottom: 1%;
+padding-top: 3%;
 }
 
