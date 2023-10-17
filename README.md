@@ -35,7 +35,7 @@ Please visit the URL to see the latest deployed version
 
 1. Image cards have the same width but varying height - tried to resize images and overlay CSS 
 2. Removing Card titles and having the whole element clickable, seems to be best achieved in Javascript which we'll start this week. 
-3. Learning to keep CSS to a minimum when it can be achieved in bootstrap, still working out which / where. 
+3. Learning to keep CSS to a minimum when it can be achieved in bootstrap, still working out the balance. 
 
 
 ## Credits
